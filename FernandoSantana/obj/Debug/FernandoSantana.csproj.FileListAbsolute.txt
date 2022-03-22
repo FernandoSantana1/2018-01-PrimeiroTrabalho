@@ -1,0 +1,10 @@
+C:\Users\2018203120\Desktop\FernandoSantana\FernandoSantana\bin\Debug\FernandoSantana.exe.config
+C:\Users\2018203120\Desktop\FernandoSantana\FernandoSantana\bin\Debug\FernandoSantana.exe
+C:\Users\2018203120\Desktop\FernandoSantana\FernandoSantana\bin\Debug\FernandoSantana.pdb
+C:\Users\2018203120\Desktop\FernandoSantana\FernandoSantana\obj\Debug\FernandoSantana.csprojResolveAssemblyReference.cache
+C:\Users\2018203120\Desktop\FernandoSantana\FernandoSantana\obj\Debug\FernandoSantana.Form1.resources
+C:\Users\2018203120\Desktop\FernandoSantana\FernandoSantana\obj\Debug\FernandoSantana.Properties.Resources.resources
+C:\Users\2018203120\Desktop\FernandoSantana\FernandoSantana\obj\Debug\FernandoSantana.csproj.GenerateResource.Cache
+C:\Users\2018203120\Desktop\FernandoSantana\FernandoSantana\obj\Debug\FernandoSantana.csproj.CoreCompileInputs.cache
+C:\Users\2018203120\Desktop\FernandoSantana\FernandoSantana\obj\Debug\FernandoSantana.exe
+C:\Users\2018203120\Desktop\FernandoSantana\FernandoSantana\obj\Debug\FernandoSantana.pdb
